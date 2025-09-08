@@ -1,0 +1,51 @@
+customer_id,name,gender,age,region,income_level,occupation
+101,Customer_101,M,22,Semi-Urban,Low,Teacher
+102,Customer_102,F,56,Rural,Low,Small Business
+103,Customer_103,M,26,Rural,Low,Teacher
+104,Customer_104,M,40,Rural,High,Small Business
+105,Customer_105,M,28,Rural,Low,Daily Labor
+106,Customer_106,F,58,Semi-Urban,Medium,Small Business
+107,Customer_107,M,37,Semi-Urban,Low,Small Business
+108,Customer_108,M,23,Semi-Urban,Low,Small Business
+109,Customer_109,M,44,Urban,Low,Teacher
+110,Customer_110,F,33,Semi-Urban,Low,Teacher
+111,Customer_111,M,28,Urban,Medium,Small Business
+112,Customer_112,M,45,Urban,Low,Teacher
+113,Customer_113,M,21,Semi-Urban,Medium,Farmer
+114,Customer_114,M,39,Rural,Low,Farmer
+115,Customer_115,F,47,Rural,Low,Teacher
+116,Customer_116,M,26,Semi-Urban,Low,Teacher
+117,Customer_117,F,27,Semi-Urban,Low,Small Business
+118,Customer_118,F,54,Semi-Urban,Medium,Daily Labor
+119,Customer_119,F,33,Rural,Low,Teacher
+120,Customer_120,M,36,Semi-Urban,Low,Farmer
+121,Customer_121,F,55,Rural,Low,Small Business
+122,Customer_122,M,59,Urban,Low,Teacher
+123,Customer_123,F,23,Urban,Medium,Farmer
+124,Customer_124,F,21,Semi-Urban,Medium,Farmer
+125,Customer_125,F,25,Rural,Low,Daily Labor
+126,Customer_126,F,23,Rural,High,Small Business
+127,Customer_127,F,48,Rural,Low,Small Business
+128,Customer_128,F,37,Semi-Urban,High,Daily Labor
+129,Customer_129,F,45,Rural,Low,Daily Labor
+130,Customer_130,F,53,Semi-Urban,Low,Small Business
+131,Customer_131,M,29,Rural,Low,Small Business
+132,Customer_132,M,55,Urban,Medium,Teacher
+133,Customer_133,F,33,Semi-Urban,Medium,Teacher
+134,Customer_134,F,50,Semi-Urban,Medium,Daily Labor
+135,Customer_135,F,34,Semi-Urban,Low,Teacher
+136,Customer_136,M,27,Rural,Medium,Farmer
+137,Customer_137,F,33,Semi-Urban,Medium,Teacher
+138,Customer_138,M,42,Semi-Urban,Low,Teacher
+139,Customer_139,M,59,Rural,Low,Farmer
+140,Customer_140,M,40,Urban,Low,Daily Labor
+141,Customer_141,M,35,Semi-Urban,High,Farmer
+142,Customer_142,M,37,Semi-Urban,Low,Teacher
+143,Customer_143,F,43,Urban,High,Daily Labor
+144,Customer_144,F,45,Semi-Urban,Low,Teacher
+145,Customer_145,F,44,Rural,High,Farmer
+146,Customer_146,F,48,Rural,Medium,Farmer
+147,Customer_147,F,34,Semi-Urban,Low,Teacher
+148,Customer_148,M,20,Rural,Medium,Small Business
+149,Customer_149,F,44,Semi-Urban,Medium,Small Business
+150,Customer_150,F,26,Urban,High,Farmer
